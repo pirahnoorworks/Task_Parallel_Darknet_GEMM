@@ -99,9 +99,3 @@ cmake --build build --config Release
 ```
 
 You may need to provide include/library paths depending on your XiTAO installation.
-
-## Why this is strong for ML engineer hiring
-
-- Connects model-layer math to systems-level runtime design.
-- Shows practical framework adaptation, not isolated micro-kernel code.
-- Includes reproducible verification and benchmark commands for interview demos.
