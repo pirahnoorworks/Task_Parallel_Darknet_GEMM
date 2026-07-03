@@ -99,3 +99,10 @@ cmake --build build --config Release
 ```
 
 You may need to provide include/library paths depending on your XiTAO installation.
+<<<<<<< HEAD
+=======
+
+> Disclaimer: This demo was created for portfolio purposes with assistance from GitHub Copilot.
+
+
+>>>>>>> 00f3d56 (Add portfolio/Copilot disclaimer to README)
